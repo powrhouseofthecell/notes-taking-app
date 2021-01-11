@@ -8,7 +8,7 @@ yargs.version('1.1.0');
 yargs.command({
    command: 'add',
    describe: 'Add a new note',
-   // builder option is used to specify the options
+   // options are specified in builder
    builder: {
       title: {
          describe: 'Note title',

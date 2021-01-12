@@ -1,10 +1,10 @@
 # Usage
 
-## add a new note
+## Add a new note
 
 node app.js add --title="Buy" --body="Food"
 
-## remove a note
+## Remove a note
 
 node app.js remove --title="Buy"
 
